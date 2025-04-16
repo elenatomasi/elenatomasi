@@ -22,7 +22,7 @@ repository               : "elenatomasi/elenatomasi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Tomasi_small.jpg" # "eltomasi.png"
   name             : "Elena Tomasi"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at Fondazione Bruno Kessler, PhD"
