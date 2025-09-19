@@ -28,13 +28,14 @@ Divulgation
 Fondazione Bruno Kessler recently appointed me as an [FBK Science Ambassador](https://magazine.fbk.eu/en/news/introducing-fbks-25-future-science-ambassadors/). In this role, I aim to bridge the gap between cutting-edge research and the wider community. My role involves sharing scientific advancements in artificial intelligence, meteorology, and climate modeling with diverse audiences, from policymakers and industry leaders to students and the general public. Through outreach, collaboration, and communication, I help translate complex research into meaningful insights, fostering awareness and engagement in the intersection of technology, earth system science, and innovation.
 
 Here is a full list of the event events I participated in:
-    • 18/11/2024 Rai Casa Italia - [Come possono aiutarci le nuove tecnologie ad evitare disastri climatici?](https://www.raiplay.it/video/2024/11/Casa-Italia-del-18112024-0ad10fb1-b4e0-4a22-bd8f-e5c2d8e20ac8.html)
-    • 27/10/2024 Festival della scienza 2024 – [Supercalcolo e Big Data: nuovi paradigmi tecnologici per nuovi orizzonti di ricerca](https://www.supercomputing-icsc.it/2024/10/23/icsc-al-festival-della-scienza-di-genova-2024/)
-    • 29/09/2024 Wired next fest 2024 – [Usare l'intelligenza artificiale per adattarsi al cambiamento climatico](https://www.wired.it/article/intelligenza-artificiale-cambiamento-climatico-grande-giove/)
-    • 29/09/2024 Wired next fest 2024 – [Il tempo che farà](https://www.wired.it/video/watch/le-interviste-del-wired-next-fest-trentino-2024-al-wired-next-fest-trentino-2024-il-tempo-che-verra-tra-meteorologia-e-dati)
-    • 17/09/2024 Progetto Innovazione e Cooperazione Trentino Marketing – Intervista con Claudio Valletta 
-    • 17/04/2024 Rai Radio3 Scienza – [Una Terra gemella](https://www.raiplaysound.it/audio/2024/06/Radio3-Scienza-del-17062024-46c4115b-1b3f-4bfa-aa31-a6156e306004.html)
-    • 13/10/2023 Futuradio – [Festa di Rai Radio3](https://www.raiplaysound.it/audio/2023/10/Futuradio---La-festa-di-Rai-Radio-3-a-Bolzano-del-13102023-df509da9-bdc1-44ed-9df7-541a9a526c5a.html)
+- 05/06/2025 Green&Blue Festival - [Intelligenza artificiale e robot: la tecnologia ci salverà](https://www.repubblica.it/green-and-blue/dossier/festival-greenandblue-2025/2025/06/05/video/gb_festival_garabini_e_tomasi_la_tecnologia_ci_salvera-424650658/)
+- 18/11/2024 Rai Casa Italia - [Come possono aiutarci le nuove tecnologie ad evitare disastri climatici?](https://www.raiplay.it/video/2024/11/Casa-Italia-del-18112024-0ad10fb1-b4e0-4a22-bd8f-e5c2d8e20ac8.html)
+- 27/10/2024 Festival della scienza 2024 – [Supercalcolo e Big Data: nuovi paradigmi tecnologici per nuovi orizzonti di ricerca](https://www.supercomputing-icsc.it/2024/10/23/icsc-al-festival-della-scienza-di-genova-2024/)
+- 29/09/2024 Wired next fest 2024 - [Usare l'intelligenza artificiale per adattarsi al cambiamento climatico](https://www.wired.it/article/intelligenza-artificiale-cambiamento-climatico-grande-giove/)
+- 29/09/2024 Wired next fest 2024 - [Il tempo che farà](https://www.wired.it/video/watch/le-interviste-del-wired-next-fest-trentino-2024-al-wired-next-fest-trentino-2024-il-tempo-che-verra-tra-meteorologia-e-dati)
+- 17/09/2024 Progetto Innovazione e Cooperazione Trentino Marketing – Intervista con Claudio Valletta 
+- 17/04/2024 Rai Radio3 Scienza - [Una Terra gemella](https://www.raiplaysound.it/audio/2024/06/Radio3-Scienza-del-17062024-46c4115b-1b3f-4bfa-aa31-a6156e306004.html)
+- 13/10/2023 Futuradio - [Festa di Rai Radio3](https://www.raiplaysound.it/audio/2023/10/Futuradio---La-festa-di-Rai-Radio-3-a-Bolzano-del-13102023-df509da9-bdc1-44ed-9df7-541a9a526c5a.html)
 
 
 
